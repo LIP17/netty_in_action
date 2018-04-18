@@ -1,7 +1,5 @@
 package nio_example;
 
-import jdk.management.resource.internal.inst.FileChannelImplRMHooks;
-
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.nio.ByteBuffer;
